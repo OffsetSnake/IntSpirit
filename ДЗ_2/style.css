@@ -1,0 +1,30 @@
+table{
+	width: 600px;
+	margin: 50px auto;
+	border-collapse: collapse;
+}
+
+td,th{
+	border: 1px solid black;
+	text-align: center;
+}
+
+.caption{
+	padding: 10px;
+	background-color: #ccffff;
+}
+
+.footer{
+	text-align: center;
+	background-color: #b6b6b4;
+}
+
+.column-1{
+	text-align: left;
+	padding-right: 30px;
+	white-space: nowrap;
+}
+
+.row-color{
+	background-color: #e5e4e2;
+}
